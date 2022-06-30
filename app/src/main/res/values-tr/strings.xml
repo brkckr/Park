@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Park</string>
+
+    <string name="map">Harita</string>
+    <string name="list">Liste</string>
+
+    <string name="distance">%1$s uzaklıkta.</string>
+    <string name="empty_capacity_description">%1$d araçlık boş yer mevcut.</string>
+
+    <string name="open">Açık</string>
+    <string name="close">Kapalı</string>
+
+    <string name="address">Adres</string>
+    <string name="address_desc">Adres : %1$s</string>
+    <string name="park_type">Park Tipi : %1$s</string>
+    <string name="empty_capacity">Boş Kapasite : %1$d</string>
+    <string name="work_hours">Çalışma Saatleri : %1$s</string>
+    <string name="pricing">Ücretlendirme</string>
+    <string name="free_time">Ücretsiz Kullanım : %1$d dakika</string>
+    <string name="monthly_fee">Aylık Ücret : %1$s</string>
+</resources>
