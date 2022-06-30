@@ -11,5 +11,7 @@ data class Park(
     val parkId: Int,
     val parkName: String,
     val parkType: String,
-    val workHours: String
+    val workHours: String,
+    var distance: Double = 0.0,
+    var distanceDescription: String = ""
 )
