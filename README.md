@@ -88,7 +88,7 @@ After following the steps below, you become ready to run this repo in Android St
    ```sh
    git clone https://github.com/brkckr/Park.git
    ```
-3. Enter your API in `local.defaults.properties`
+3. Enter your API Key in `local.defaults.properties`
    ```js
    MAPS_API_KEY = your_api_key_here
    ```
@@ -117,7 +117,7 @@ Distributed under the MIT License.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+ Resources I find helpful and would like to give credit to.
 
 * [Android Maps Compose](https://github.com/googlemaps/android-maps-compose)
 * [Crane](https://github.com/android/compose-samples/tree/main/Crane)
