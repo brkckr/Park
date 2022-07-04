@@ -102,6 +102,7 @@ After following the steps below, you become ready to run this repo in Android St
 
 - [ ] Add Location Tracker
 - [ ] Add Favorite Park Database
+- [ ] Add Project Description
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
